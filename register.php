@@ -4,6 +4,7 @@
 	<title></title>
 </head>
 <body>
+	
 	<?php
 		$firstName = $_POST["first_name"];
 		$lastName = $_POST["last_name"];
